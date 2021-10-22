@@ -1,0 +1,47 @@
+header{
+    background-color:  rgb(163, 163, 239);
+  }
+  
+  h3{
+    color: rgb(113, 113, 231);
+  }
+  
+  body{
+    background-color: rgba(113, 113, 231, 0.108); 
+  }
+  
+  hr{
+    color:rgb(113, 113, 231);
+  }
+  
+  footer{
+    background-color: rgb(163, 163, 239);
+  }
+  
+  .menus ul{
+    display: flex;
+    list-style: none;
+    margin: 20px 0px;
+    
+    
+  }
+  
+  .menus ul li{
+    font-family: century;
+    font-weight: bold;
+  }
+  
+  .menus ul li a{
+    text-decoration: none;
+    padding: 8px 60px;
+  }
+  
+  .menus ul li a:hover{
+    background-color: snow;
+    color: black;
+    
+  
+      //background-color: snow;
+      //color: black;
+      //box-shadow: 0 0 10px white;
+  }
